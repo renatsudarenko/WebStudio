@@ -1,0 +1,55 @@
+.container{
+    width: 906px;
+    margin: 0 auto;
+   
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: #7D7D7D;
+}
+.menu{
+    display: flex;
+    gap: 100px;
+    margin-left: 150px;
+    margin-top: 71px;
+}
+.el1{
+    color: #3FAA3F;
+}
+.section_1-wrap{
+    margin-top: 92px;
+}
+.wrap1{
+    display: flex;
+    gap: 65px;
+}
+.p1{
+    margin-top: 62px;
+    margin-bottom: 32px;
+}
+.h2{
+    margin-bottom: 10px;
+}
+.section_2-wrap{
+    margin-top: 120px;
+}
+.h2_2{
+    margin-bottom:40px;
+}
+.section_3-wrap{
+    margin-top:128px;
+}
+.btn{
+    width: 165px;
+    height: 60px;
+    border: 1px solid #626262;
+    margin-left:660px;
+    margin-top: 94px;
+}
+.button{
+    margin-left:49px;
+    margin-top: 20px;
+}
